@@ -1,3 +1,3 @@
 # Museum
 
-This is my 1stcmmit on museum api
+This is my 1st commit on museum api
