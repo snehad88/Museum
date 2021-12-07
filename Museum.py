@@ -5,7 +5,7 @@ data = []
 
 
 def func(v):
-    # v is a list type
+ 
 
     dict_val = []
     for item in v:
